@@ -1,0 +1,8 @@
+2026-11-15 23:45:29,850 | INFO | Iniciando la aplicación principal desde main.py.
+2026-11-15 23:49:45,677 | INFO | Iniciando la aplicación principal desde main.py.
+2026-11-15 23:49:45,677 | ERROR | Se produjo un error en el sistema: name 'cliente_prueba' is not defined
+2026-11-15 23:52:59,058 | INFO | Iniciando la aplicación principal desde main.py.
+2026-11-16 00:00:12,069 | INFO | Iniciando la aplicación principal desde main.py.
+2026-11-16 00:01:38,460 | INFO | Iniciando la aplicación principal desde main.py.
+2026-11-16 00:01:52,356 | INFO | Iniciando la aplicación principal desde main.py.
+2026-11-16 00:02:16,212 | INFO | Iniciando la aplicación principal desde main.py.
